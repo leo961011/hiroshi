@@ -49,7 +49,7 @@ const Footer = () => {
               viewport={{ once: true }}
               transition={{ duration: 0.5 }}
             >
-              <h3 className="text-xl font-bold text-white mb-4">Leo Wright</h3>
+              <h3 className="text-xl font-bold text-white mb-4">Hiroshi Saito</h3>
               <p className="text-indigo-100/60 text-sm sm:text-base">
                 MERN Stack & Shopify Expert
                 <br />
@@ -98,7 +98,7 @@ const Footer = () => {
         >
           <div className="flex flex-col sm:flex-row justify-between items-center gap-3 sm:gap-4">
             <p className="text-xs sm:text-sm text-indigo-100/40 text-center sm:text-left">
-              © {currentYear} Leo Wright. All rights reserved.
+              © {currentYear} Hiroshi Saito. All rights reserved.
             </p>
             <div className="flex gap-3 sm:gap-4">
               <motion.a

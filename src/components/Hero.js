@@ -126,13 +126,14 @@ const Hero = () => {
               variants={textVariants}
               className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6"
             >
-              Hi, I'm <span className="animated-gradient">Leo Wright</span>
+              Hi, I'm <span className="animated-gradient">Hiroshi Saito</span>
               <br />
               <Typewriter
                 words={[
                   "Creative Developer",
                   "React Enthusiast",
                   "UI/UX Lover",
+                  "AI Expert"
                 ]}
               />
             </motion.h1>
