@@ -51,7 +51,7 @@ const Footer = () => {
             >
               <h3 className="text-xl font-bold text-white mb-4">Hiroshi Saito</h3>
               <p className="text-indigo-100/60 text-sm sm:text-base">
-                MERN Stack & Shopify Expert
+                MERN Stack & AI & Shopify Expert
                 <br />
                 Waseda University Graduate
               </p>
