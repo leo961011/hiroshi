@@ -15,14 +15,15 @@
     "swiper": "^11.2.8",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://leo961011.github.io/portfolio",
   "scripts": {
+    "homepage": ".",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+    
   },
   "eslintConfig": {
     "extends": [
